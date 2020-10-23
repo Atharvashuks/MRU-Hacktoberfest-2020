@@ -31,3 +31,10 @@ _Dont change until this_
 - Place: Firozabad,india
 - Bio: Aspirring Security analyst
 - GitHub: abhyuday12(https://github.com/abhyuday12)
+
+
+##### Name: [Atharvashuks](https://github.com/Atharvashuks)
+
+- Place: Delhi,india
+- Bio: Aspirring programmer
+- GitHub: Atharvashuks(https://github.com/Atharvashuks)
